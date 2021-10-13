@@ -29,8 +29,8 @@ Sinta-se à vontade para fazer contato. Você pode me encontrar aqui 👇
 <br/>
 
 <div >
-    <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoquadros&layout=compact"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hugoquadros&show_icons=true&theme=tokyonight"/>
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoquadros&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoquadros&show_icons=true&theme=tokyonight"/>
 </div>
 
 ![Snake animation](https://github.com/hugoquadros/hugoquadros/blob/output/github-contribution-grid-snake.svg)
